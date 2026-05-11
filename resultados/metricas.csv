@@ -1,0 +1,12 @@
+metrica,valor
+Pixels totais,480000.0
+Pixels segmentados (HSV+morfologia),111753.0
+% de area segmentada,23.28
+Valor medio de pixel (cinza),156.82
+Desvio-padrao (cinza),67.51
+PSNR gaussiano (dB),28.09
+SNR gaussiano (dB),24.68
+PSNR mediana (dB),28.29
+SNR mediana (dB),24.88
+PSNR bilateral (dB),35.47
+SNR bilateral (dB),32.07
